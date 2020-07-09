@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834281430484",
+    "firebase_url": "https://rentapplication-d2264.firebaseio.com",
+    "project_id": "rentapplication-d2264",
+    "storage_bucket": "rentapplication-d2264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834281430484:android:1f369eb41fbdf5f5568a41",
+        "android_client_info": {
+          "package_name": "com.leonpahole.rentapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834281430484-qg0tnd9ab7rck92ccjade5hv9k7hqqp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leonpahole.rentapplication",
+            "certificate_hash": "d5d9361ae2d9c45b2820ce8cd75969c661f1af34"
+          }
+        },
+        {
+          "client_id": "834281430484-m8phdrigi3v6gtmb36sdf82m27m344ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMO0QVAv1YhtgUkfXkkAL4nfXD6iv1_ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834281430484-m8phdrigi3v6gtmb36sdf82m27m344ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
